@@ -3,7 +3,6 @@
 <groupId>io.demo</groupId>
 <artifactId>junit</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packing>jar</packing>
 <name/>
 <description>Describes the basic usage of JUnit</description>
 <dependencies>
